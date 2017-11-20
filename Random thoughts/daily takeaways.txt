@@ -1,0 +1,16 @@
+Objectives:
+    Getting up to date on webdev before joining a new company in
+    decembre 2017.
+    Javascript (basics)
+    PHP (getting back into it)
+    HTML & CSS (Bootstrap)
+    Wordpress (to what point, I am not really sure)
+
+Before 2017/11/20
+    Hard to study in Japanese but HAVE TO because will be
+    working in that language
+    So far, no new things. getting used to the different grammars
+
+2017/11/20
+    RegEx ! in Javascript
+    First objects
