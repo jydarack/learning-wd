@@ -14,3 +14,6 @@ Before 2017/11/20
 2017/11/20
     RegEx ! in Javascript
     First objects
+2017/11/21
+    Challenges !
+    The order of the if clause are tricky
