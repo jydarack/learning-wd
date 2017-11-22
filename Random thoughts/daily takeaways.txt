@@ -17,3 +17,14 @@ Before 2017/11/20
 2017/11/21
     Challenges !
     The order of the if clause are tricky
+2017/11/22
+    The blacklist (null etc...) script was harder than I thought.
+    Couldn't make use of array.filter need to work on that
+    happy to have found array.includes which covers everything I needed
+    Finally managed to use array.filter in destroyer.js ! Hey, Progress!
+    AND... finished all the scripting assignments On with the new stuff!!!!
+    (also spent way too much time on that. Watching MindHunter at the same time doesn't help)
+
+    JSON part done. Will go to Intermediate Coding Challenges tomorrow.
+    But That's it for FCC for today.
+    Off to study my Wordpress Book in Japanese
