@@ -28,3 +28,11 @@ Before 2017/11/20
     JSON part done. Will go to Intermediate Coding Challenges tomorrow.
     But That's it for FCC for today.
     Off to study my Wordpress Book in Japanese
+
+2017/11/23
+    Had an extremely hard time doing the Random Quote page.
+    Structure was simple and finished in 5 minutes.
+    CSS was OK-ish but I'm still rough and unsure about how to do what and where to start
+    JS was OK-ish but couldn't manage to make the AJAX work at first.
+
+    Still managed to do it !
