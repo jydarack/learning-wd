@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>DIV vs span</title>
+    <style media="screen">
+        div,
+        span {
+            border: 1px solid black;
+        }
+
+        div {
+            background-color: yellow;
+        }
+
+        span {
+            background-color: cyan;
+        }
+    </style>
+</head>
+
+<body>
+    <div>これはdivタグのテキスト</div>
+    これは違う
+    <div>これはdivタグ内のテキスト。</div><br />
+    <span>これはspanタグ内のテキスト</span> ここれは違う
+    <span>これはspan内のテキスト</span><br /><br />
+    <div>これはブラウザの表示で次の行に送られるくらい長い、長い長い長い長い長い長い、divタグ内のテキスト
+    </div><br />
+    <span>これはブラウザの表示で次の行に送られるくらい長い、長い長い長い長い長い長い、spanタグ内のテキスト
+        </span><br />
+</body>
+
+</html>
